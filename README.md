@@ -22,3 +22,17 @@ Hao Gao<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIe
 </div>
 
 https://github.com/user-attachments/assets/71695178-90ca-4f5c-acc2-ab2e13c63e43
+
+## 📚 Citation
+If you find RAD useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.
+
+
+```bibtex
+@article{RAD,
+  title={RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning},
+  author={Gao, Hao and Chen, Shaoyu and Jiang, Bo and Liao, Bencheng and Shi, Yiang and Guo, Xiaoyang and Pu, Yuechuan and Yin, Haoran and Li, Xiangyu and Zhang, Xinbang and Zhang, Ying and Liu, Wenyu and Zhang, Qian and Wang, Xinggang},
+  journal={arXiv preprint arXiv:2502.13144},
+  year={2025}
+}
+```
+

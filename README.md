@@ -21,10 +21,8 @@ Hao Gao<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIe
 </div>
 
 <div align="center">
-<img src="./assets/arch.png">
+<img src="./assets/framework.png">
 </div>
-
-https://github.com/user-attachments/assets/71695178-90ca-4f5c-acc2-ab2e13c63e43
 
 ## 📚 Citation
 If you find RAD useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.

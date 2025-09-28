@@ -24,6 +24,42 @@ Hao Gao<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIe
 <img src="./assets/framework.png">
 </div>
 
+## Getting Started
+- Project Structure
+``` bash
+.
+├── data/                        # Action anchors for planning/control
+├── compute_advantage.py         # Script for computing RL advantages and evaluation metrics
+├── generate_action_anchor.py    # Script for generating action anchors for planning/control
+├── planning_head.py             # Planning head module
+└── README.md
+```
+
+- Run Key Scripts
+``` bash
+# You can quickly test the core functionality by running the provided scripts.
+# Generate action anchors
+python generate_action_anchor.py
+
+# Run the planning head module
+python planning_head.py
+
+# Compute advantage metrics
+python compute_advantage.py
+```
+
+- Using Your Own Data
+> To integrate this project into your pipeline and use your own data, follow these steps:
+>
+> 1. **Replace the Planning Head**  
+>    Use `planning_head.py` to replace the head of your end-to-end algorithm.
+>
+> 2. **Prepare the Closed-Loop Environment**  
+>    Set up your closed-loop environment and collect closed-loop data.
+>
+> 3. **Compute Advantages and Train the Model**  
+>    Use `compute_advantage.py` to calculate advantage values from the collected data, and then use them for model training.
+
 ## 📚 Citation
 If you find RAD useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.
 

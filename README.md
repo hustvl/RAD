@@ -14,7 +14,7 @@ Hao Gao<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIe
 
 [![Project page](https://img.shields.io/badge/Project%20Page-hgao--cv.github.io%2FRAD-blue)](https://hgao-cv.github.io/RAD/)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.13144-red?logo=arXiv&logoColor=red)](https://arxiv.org/pdf/2502.13144)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 
 

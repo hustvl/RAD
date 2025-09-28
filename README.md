@@ -21,7 +21,7 @@ Hao Gao<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIe
 </div>
 
 <div align="center">
-<img src="./assets/framework.png">
+  <img src="./assets/framework.png" width="90%">
 </div>
 
 ## Getting Started

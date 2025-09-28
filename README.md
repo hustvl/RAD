@@ -24,7 +24,14 @@
   <img src="./assets/framework.png" width="90%">
 </div>
 
-## Getting Started
+## 📰 News
+- **[2025.09.28]** We have released core code for RL training.
+
+- **[2025.09.18]** **RAD has been accepted by NeurIPS 2025!** 🎉🎉🎉
+
+- **[2025.02.18]** We released our paper on Arxiv. Code are coming soon. Please stay tuned! ☕️
+
+## 🎯 How to Use
 - Project Structure
 ``` bash
 .

@@ -31,6 +31,11 @@
 
 - **[2025.02.18]** We released our paper on Arxiv. Code are coming soon. Please stay tuned! ☕️
 
+
+## 📌 RAD Training Discussion & Reference
+
+We have created a **central discussion issue** for RAD training details. You can view and participate in the discussion here: [RAD Training Details Issue](https://github.com/hustvl/RAD/issues/2). We also hope that the experiences and tips shared there will be helpful for your **own RL-related training**, not limited to RAD.
+
 ## 🎯 How to Use
 - Project Structure
 ``` bash
@@ -39,6 +44,7 @@
 ├── compute_advantage.py         # Script for computing RL advantages and evaluation metrics
 ├── generate_action_anchor.py    # Script for generating action anchors for planning/control
 ├── planning_head.py             # Planning head module
+├── utils.py                     # Utility functions for training and evaluation
 └── README.md
 ```
 
@@ -66,11 +72,6 @@ python compute_advantage.py
 >
 > 3. **Compute Advantages and Train the Model**  
 >    Use `compute_advantage.py` to calculate advantage values from the collected data, and then use them for model training.
-
-## 📌 RAD Training Discussion & Reference
-
-We have created a **central discussion issue** for RAD training details. You can view and participate in the discussion here: [RAD Training Details Issue](https://github.com/hustvl/RAD/issues/2)
-
 
 ## 📚 Citation
 If you find RAD useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.

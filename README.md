@@ -25,6 +25,9 @@
 </div>
 
 ## 📰 News
+
+- **[2025.11.04]** Good news! 🎉 The **ReconDreamer-RL** team has now **open-sourced their reconstructed 3DGS environments** based on nuScenes. You can find the release here: 👉 [ReconDreamer-RL Environments](https://github.com/GigaAI-research/ReconDreamer-RL)
+
 - **[2025.09.28]** We have released core code for RL training.
 
 - **[2025.09.18]** **RAD has been accepted by NeurIPS 2025!** 🎉🎉🎉

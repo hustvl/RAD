@@ -26,6 +26,8 @@
 
 ## 📰 News
 
+- **[2026.04.17]** We have released the RAD-2 paper on [arXiv](https://arxiv.org/abs/2604.15308). More details are available on our [project homepage](https://hgao-cv.github.io/RAD-2/).
+
 - **[2025.11.04]** Good news! 🎉 The **ReconDreamer-RL** team has now **open-sourced their reconstructed 3DGS environments** based on nuScenes. You can find the release here: 👉 [ReconDreamer-RL Environments](https://github.com/GigaAI-research/ReconDreamer-RL)
 
 - **[2025.09.28]** We have released core code for RL training.
@@ -87,5 +89,13 @@ If you find RAD useful in your research or applications, please consider giving 
   journal={arXiv preprint arXiv:2502.13144},
   year={2025}
 }
+
+@article{gao2026rad2,
+  title={RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework},
+  author={Gao, Hao and Chen, Shaoyu and Zhu, Yifan and Song, Yuehao and Liu, Wenyu and Zhang, Qian and Wang, Xinggang},
+  journal={arXiv preprint arXiv:2604.15308},
+  year={2026}
+}
+
 ```
 

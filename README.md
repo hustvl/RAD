@@ -1,4 +1,4 @@
-<h1>RAD & RAD-2: End-to-End Driving via Reinforcement Learning</h1>
+<h1>RAD & RAD-2: End-to-End Driving via RL</h1>
 
 <div align="center">
 <h2>RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework</h2>

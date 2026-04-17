@@ -1,22 +1,32 @@
-<div align ="center">
+<h1>RAD & RAD-2: End-to-End Driving via Reinforcement Learning</h1>
 
-<h2>RAD: Training an End-to-End Driving Policy via Large-Scale
+<div align="center">
+<h2>RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework</h2>
   
-  3DGS-based Reinforcement Learning</h2>
-
-[Hao Gao](https://scholar.google.com/citations?user=U4zbmyIAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=en&oi=sra)<sup>1,2,†</sup>, [Bo Jiang](https://scholar.google.com/citations?user=UlDxGP0AAAAJ&hl=zh-CN)<sup>1</sup>, [Bencheng Liao](https://scholar.google.com/citations?user=rUBdh_sAAAAJ&hl=zh-CN)<sup>1</sup>, [Yiang Shi](https://scholar.google.com/citations?user=AWZwS8AAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Xiaoyang Guo](https://scholar.google.com/citations?hl=zh-CN&user=CrK4w4UAAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Yuechuan Pu](https://scholar.google.com/citations?user=xzpIROoAAAAJ&hl=zh-CN)<sup>2</sup>, Haoran Yin<sup>2</sup>, Xiangyu Li<sup>2</sup>, Xinbang Zhang<sup>2</sup>, Ying Zhang<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>,  [Xinggang Wang](https://xwcv.github.io/)<sup>1,📧</sup>
+[Hao Gao](https://scholar.google.com/citations?user=U4zbmyIAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=en&oi=sra)<sup>1,2,†</sup>, [Yifan Zhu](https://stevenzzz07.github.io/)<sup>1</sup>, [Yuehao Song](https://scholar.google.com/citations?user=7sqkA-MAAAAJ&hl=zh-CN)<sup>1</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1,📧</sup>
 
 <sup>1</sup> Huazhong University of Science and Technology,
 <sup>2</sup> Horizon Robotics,
 <sup>†</sup> Project lead
 <sup>📧</sup> Corresponding author
 
+[![Project page](https://img.shields.io/badge/Project%20Page-hgao--cv.github.io%2FRAD--2-blue)](https://hgao-cv.github.io/RAD-2/)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.15308-red?logo=arXiv&logoColor=red)](https://arxiv.org/abs/2604.15308)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+<br>
+<h2>RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning</h2>
+
+[Hao Gao](https://scholar.google.com/citations?user=U4zbmyIAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=en&oi=sra)<sup>1,2,†</sup>, [Bo Jiang](https://scholar.google.com/citations?user=UlDxGP0AAAAJ&hl=zh-CN)<sup>1</sup>, [Bencheng Liao](https://scholar.google.com/citations?user=rUBdh_sAAAAJ&hl=zh-CN)<sup>1</sup>, [Yiang Shi](https://scholar.google.com/citations?user=AWZwS8AAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Xiaoyang Guo](https://scholar.google.com/citations?hl=zh-CN&user=CrK4w4UAAAAJ&view_op=list_works&sortby=date)<sup>2</sup>, [Yuechuan Pu](https://scholar.google.com/citations?user=xzpIROoAAAAJ&hl=zh-CN)<sup>2</sup>, Haoran Yin<sup>2</sup>, Xiangyu Li<sup>2</sup>, Xinbang Zhang<sup>2</sup>, Ying Zhang<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1,📧</sup>
+
+<sup>1</sup> Huazhong University of Science and Technology,
+<sup>2</sup> Horizon Robotics,
+<sup>†</sup> Project lead
+<sup>📧</sup> Corresponding author
 
 [![Project page](https://img.shields.io/badge/Project%20Page-hgao--cv.github.io%2FRAD-blue)](https://hgao-cv.github.io/RAD/)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.13144-red?logo=arXiv&logoColor=red)](https://arxiv.org/pdf/2502.13144)
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-
-
 
 </div>
 

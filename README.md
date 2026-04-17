@@ -1,6 +1,8 @@
-<h1>RAD & RAD-2: End-to-End Driving via RL</h1>
+
 
 <div align="center">
+<h1>RAD & RAD-2: End-to-End Driving via Reinforcement Learning</h1>
+  
 <h2>RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework</h2>
   
 [Hao Gao](https://scholar.google.com/citations?user=U4zbmyIAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=en&oi=sra)<sup>1,2,†</sup>, [Yifan Zhu](https://stevenzzz07.github.io/)<sup>1</sup>, [Yuehao Song](https://scholar.google.com/citations?user=7sqkA-MAAAAJ&hl=zh-CN)<sup>1</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1,📧</sup>

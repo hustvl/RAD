@@ -58,6 +58,8 @@ Haoran Yin<sup>2</sup>, Xiangyu Li<sup>2</sup>, Xinbang Zhang<sup>2</sup>, Ying 
 
 ## 📰 News
 
+- **[2026.10.31]** **RAD-2 has been accepted by TPAMI!** 🎉🎉🎉
+
 - **[2026.04.17]** We have released the RAD-2 paper on [arXiv](https://arxiv.org/abs/2604.15308). More details are available on our [project homepage](https://hgao-cv.github.io/RAD-2/).
 
 - **[2025.11.04]** Good news! 🎉 The **ReconDreamer-RL** team has now **open-sourced their reconstructed 3DGS environments** based on nuScenes. You can find the release here: 👉 [ReconDreamer-RL Environments](https://github.com/GigaAI-research/ReconDreamer-RL)

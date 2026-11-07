@@ -117,18 +117,21 @@ If you find RAD useful in your research or applications, please consider giving 
 
 
 ```bibtex
-@article{RAD,
-  title={RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning},
-  author={Gao, Hao and Chen, Shaoyu and Jiang, Bo and Liao, Bencheng and Shi, Yiang and Guo, Xiaoyang and Pu, Yuechuan and Yin, Haoran and Li, Xiangyu and Zhang, Xinbang and Zhang, Ying and Liu, Wenyu and Zhang, Qian and Wang, Xinggang},
-  journal={arXiv preprint arXiv:2502.13144},
-  year={2025}
+@article{gao2026rad,
+  title={Rad: Training an end-to-end driving policy via large-scale 3dgs-based reinforcement learning},
+  author={Gao, Hao and Chen, Shaoyu and Jiang, Bo and Liao, Bencheng and Shi, Yiang and Guo, Xiaoyang and Pu, Yuechuan and Li, Xiangyu and Liu, Wenyu and Zhang, Qian and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={32551--32576},
+  year={2026}
 }
 
-@article{gao2026rad2,
-  title={RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework},
+@article{gao2026rad,
+  title={Rad-2: Scaling reinforcement learning in a generator-discriminator framework},
   author={Gao, Hao and Chen, Shaoyu and Zhu, Yifan and Song, Yuehao and Liu, Wenyu and Zhang, Qian and Wang, Xinggang},
-  journal={arXiv preprint arXiv:2604.15308},
-  year={2026}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
 }
 
 ```
